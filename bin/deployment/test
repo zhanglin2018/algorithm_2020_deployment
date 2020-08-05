@@ -1,0 +1,434 @@
+list's size : 325, test data/10.in
+======================================init process: 0
+init Map time cosume: 
+consume time: 0
+==========================all single point's : 13
+======================================search process: 2
+solution1' size : 167
+all result points's size: 325
+list's size : 2005, test data/11.in
+======================================init process: 1
+init Map time cosume: 
+consume time: 0
+==========================all single point's : 85
+======================================search process: 2
+solution1' size : 1026
+all result points's size: 2005
+list's size : 4925, test data/12.in
+======================================init process: 2
+init Map time cosume: 
+consume time: 1
+==========================all single point's : 911
+======================================search process: 3
+solution1' size : 2877
+all result points's size: 4925
+list's size : 8032, test data/13.in
+======================================init process: 3
+init Map time cosume: 
+consume time: 4
+==========================all single point's : 312
+======================================search process: 16
+solution1' size : 4121
+all result points's size: 8032
+list's size : 20110, test data/14.in
+======================================init process: 7
+init Map time cosume: 
+consume time: 5
+==========================all single point's : 3674
+======================================search process: 11
+solution1' size : 11718
+all result points's size: 20110
+list's size : 31861, test data/15.in
+======================================init process: 7
+init Map time cosume: 
+consume time: 5
+==========================all single point's : 1253
+======================================search process: 29
+solution1' size : 16256
+all result points's size: 31861
+list's size : 125184, test data/16.in
+======================================init process: 26
+init Map time cosume: 
+consume time: 22
+==========================all single point's : 22722
+======================================search process: 47
+solution1' size : 72951
+all result points's size: 125184
+list's size : 199835, test data/17.in
+======================================init process: 20
+init Map time cosume: 
+consume time: 27
+==========================all single point's : 7621
+======================================search process: 285
+solution1' size : 101924
+all result points's size: 199835
+list's size : 200293, test data/18.in
+======================================init process: 27
+init Map time cosume: 
+consume time: 46
+==========================all single point's : 99541
+======================================search process: 82
+solution1' size : 149517
+all result points's size: 200293
+list's size : 199931, test data/19.in
+======================================init process: 22
+init Map time cosume: 
+consume time: 34
+==========================all single point's : 99843
+======================================search process: 69
+solution1' size : 149494
+all result points's size: 199931
+list's size : 199607, test data/20.in
+======================================init process: 31
+init Map time cosume: 
+consume time: 56
+==========================all single point's : 165205
+======================================search process: 130
+solution1' size : 182386
+all result points's size: 199607
+list's size : 81, test data/21.in
+======================================init process: 0
+init Map time cosume: 
+consume time: 0
+==========================all single point's : 7
+======================================search process: 0
+solution1' size : 44
+all result points's size: 81
+list's size : 36, test data/22.in
+======================================init process: 0
+init Map time cosume: 
+consume time: 0
+==========================all single point's : 6
+======================================search process: 0
+solution1' size : 20
+all result points's size: 36
+list's size : 18, test data/23.in
+======================================init process: 0
+init Map time cosume: 
+consume time: 0
+==========================all single point's : 6
+======================================search process: 0
+solution1' size : 11
+all result points's size: 18
+list's size : 25, test data/24.in
+======================================init process: 0
+init Map time cosume: 
+consume time: 0
+==========================all single point's : 3
+======================================search process: 0
+solution1' size : 13
+all result points's size: 25
+list's size : 28, test data/25.in
+======================================init process: 0
+======================================search process: 0
+solution1' size : 14
+all result points's size: 28
+list's size : 49, test data/26.in
+======================================init process: 0
+init Map time cosume: 
+consume time: 0
+==========================all single point's : 5
+======================================search process: 0
+solution1' size : 27
+all result points's size: 49
+list's size : 50, test data/27.in
+======================================init process: 0
+init Map time cosume: 
+consume time: 0
+==========================all single point's : 6
+======================================search process: 0
+solution1' size : 28
+all result points's size: 50
+list's size : 25, test data/28.in
+======================================init process: 0
+init Map time cosume: 
+consume time: 0
+==========================all single point's : 3
+======================================search process: 0
+solution1' size : 14
+all result points's size: 25
+list's size : 26, test data/29.in
+======================================init process: 0
+init Map time cosume: 
+consume time: 0
+==========================all single point's : 2
+======================================search process: 0
+solution1' size : 14
+all result points's size: 26
+list's size : 199, test data/30.in
+======================================init process: 0
+init Map time cosume: 
+consume time: 0
+==========================all single point's : 27
+======================================search process: 0
+solution1' size : 112
+all result points's size: 199
+list's size : 321, test data/31.in
+======================================init process: 0
+init Map time cosume: 
+consume time: 0
+==========================all single point's : 17
+======================================search process: 0
+solution1' size : 166
+all result points's size: 321
+list's size : 1267, test data/32.in
+======================================init process: 0
+init Map time cosume: 
+consume time: 0
+==========================all single point's : 215
+======================================search process: 1
+solution1' size : 735
+all result points's size: 1267
+list's size : 2027, test data/33.in
+======================================init process: 0
+init Map time cosume: 
+consume time: 0
+==========================all single point's : 65
+======================================search process: 0
+solution1' size : 1029
+all result points's size: 2027
+list's size : 2990, test data/34.in
+======================================init process: 0
+init Map time cosume: 
+consume time: 0
+==========================all single point's : 1102
+======================================search process: 1
+solution1' size : 2036
+all result points's size: 2990
+list's size : 5082, test data/35.in
+======================================init process: 0
+init Map time cosume: 
+consume time: 0
+==========================all single point's : 900
+======================================search process: 1
+solution1' size : 2951
+all result points's size: 5082
+list's size : 7938, test data/36.in
+======================================init process: 0
+init Map time cosume: 
+consume time: 1
+==========================all single point's : 348
+======================================search process: 9
+solution1' size : 4082
+all result points's size: 7938
+list's size : 12102, test data/37.in
+======================================init process: 0
+init Map time cosume: 
+consume time: 1
+==========================all single point's : 4346
+======================================search process: 2
+solution1' size : 8173
+all result points's size: 12102
+list's size : 19810, test data/38.in
+======================================init process: 1
+init Map time cosume: 
+consume time: 1
+==========================all single point's : 3722
+======================================search process: 3
+solution1' size : 11603
+all result points's size: 19810
+list's size : 31897, test data/39.in
+======================================init process: 2
+init Map time cosume: 
+consume time: 2
+==========================all single point's : 1241
+======================================search process: 42
+solution1' size : 16282
+all result points's size: 31897
+list's size : 75367, test data/40.in
+======================================init process: 7
+init Map time cosume: 
+consume time: 10
+==========================all single point's : 26891
+======================================search process: 24
+solution1' size : 50844
+all result points's size: 75367
+list's size : 124921, test data/41.in
+======================================init process: 11
+init Map time cosume: 
+consume time: 16
+==========================all single point's : 22559
+======================================search process: 31
+solution1' size : 72673
+all result points's size: 124921
+list's size : 199913, test data/42.in
+======================================init process: 16
+init Map time cosume: 
+consume time: 23
+==========================all single point's : 7765
+======================================search process: 343
+solution1' size : 102099
+all result points's size: 199913
+list's size : 300611, test data/43.in
+======================================init process: 30
+init Map time cosume: 
+consume time: 45
+==========================all single point's : 108015
+======================================search process: 89
+solution1' size : 203073
+all result points's size: 300611
+list's size : 313, test data/44.in
+======================================init process: 0
+init Map time cosume: 
+consume time: 0
+==========================all single point's : 17
+======================================search process: 0
+solution1' size : 160
+all result points's size: 313
+list's size : 328, test data/45.in
+======================================init process: 0
+init Map time cosume: 
+consume time: 0
+==========================all single point's : 6
+======================================search process: 0
+solution1' size : 165
+all result points's size: 328
+list's size : 301, test data/46.in
+======================================init process: 0
+init Map time cosume: 
+consume time: 0
+==========================all single point's : 19
+======================================search process: 0
+solution1' size : 157
+all result points's size: 301
+list's size : 320, test data/47.in
+======================================init process: 0
+init Map time cosume: 
+consume time: 0
+==========================all single point's : 16
+======================================search process: 0
+solution1' size : 164
+all result points's size: 320
+list's size : 320, test data/48.in
+======================================init process: 0
+init Map time cosume: 
+consume time: 0
+==========================all single point's : 16
+======================================search process: 0
+solution1' size : 164
+all result points's size: 320
+list's size : 316, test data/49.in
+======================================init process: 0
+init Map time cosume: 
+consume time: 0
+==========================all single point's : 24
+======================================search process: 0
+solution1' size : 164
+all result points's size: 316
+list's size : 334, test data/50.in
+======================================init process: 0
+init Map time cosume: 
+consume time: 0
+==========================all single point's : 14
+======================================search process: 0
+solution1' size : 174
+all result points's size: 334
+list's size : 499793, test data/51.in
+======================================init process: 55
+init Map time cosume: 
+consume time: 83
+==========================all single point's : 90663
+======================================search process: 162
+solution1' size : 291106
+all result points's size: 499793
+list's size : 500560, test data/52.in
+======================================init process: 32
+init Map time cosume: 
+consume time: 40
+==========================all single point's : 91440
+======================================search process: 102
+solution1' size : 291792
+all result points's size: 500560
+list's size : 599989, test data/53.in
+======================================init process: 54
+init Map time cosume: 
+consume time: 73
+==========================all single point's : 72913
+======================================search process: 163
+solution1' size : 330584
+all result points's size: 599989
+list's size : 800022, test data/54.in
+======================================init process: 59
+init Map time cosume: 
+consume time: 78
+==========================all single point's : 31030
+======================================search process: 1519
+solution1' size : 408232
+all result points's size: 800022
+list's size : 1200136, test data/55.in
+======================================init process: 148
+init Map time cosume: 
+consume time: 251
+==========================all single point's : 431110
+======================================search process: 475
+solution1' size : 810595
+all result points's size: 1200136
+list's size : 8, test data/1.in
+======================================init process: 0
+init Map time cosume: 
+consume time: 0
+==========================all single point's : 2
+======================================search process: 0
+solution1' size : 5
+all result points's size: 8
+list's size : 12, test data/2.in
+======================================init process: 0
+init Map time cosume: 
+consume time: 0
+==========================all single point's : 2
+======================================search process: 0
+solution1' size : 7
+all result points's size: 12
+list's size : 13, test data/3.in
+======================================init process: 0
+======================================search process: 0
+solution1' size : 7
+all result points's size: 13
+list's size : 13, test data/4.in
+======================================init process: 0
+init Map time cosume: 
+consume time: 0
+==========================all single point's : 3
+======================================search process: 0
+solution1' size : 8
+all result points's size: 13
+list's size : 1205, test data/5.in
+======================================init process: 0
+init Map time cosume: 
+consume time: 0
+==========================all single point's : 229
+======================================search process: 0
+solution1' size : 704
+all result points's size: 1205
+list's size : 100137, test data/6.in
+======================================init process: 13
+init Map time cosume: 
+consume time: 20
+==========================all single point's : 69303
+======================================search process: 45
+solution1' size : 84675
+all result points's size: 100137
+list's size : 54, test data/7.in
+======================================init process: 0
+init Map time cosume: 
+consume time: 0
+==========================all single point's : 8
+======================================search process: 0
+solution1' size : 31
+all result points's size: 54
+list's size : 73, test data/8.in
+======================================init process: 0
+init Map time cosume: 
+consume time: 0
+==========================all single point's : 5
+======================================search process: 0
+solution1' size : 37
+all result points's size: 73
+list's size : 198, test data/9.in
+======================================init process: 0
+init Map time cosume: 
+consume time: 0
+==========================all single point's : 40
+======================================search process: 0
+solution1' size : 116
+all result points's size: 198
